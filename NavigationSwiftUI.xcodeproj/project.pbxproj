@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B7506AB5298D9D9600A61FE7 /* new.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7506AB4298D9D9600A61FE7 /* new.swift */; };
 		B7D438F32982A08F00B4CD46 /* NavigationSwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7D438F22982A08E00B4CD46 /* NavigationSwiftUIApp.swift */; };
 		B7D438F52982A08F00B4CD46 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7D438F42982A08F00B4CD46 /* ContentView.swift */; };
 		B7D438F72982A09700B4CD46 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B7D438F62982A09700B4CD46 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B7506AB4298D9D9600A61FE7 /* new.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = new.swift; sourceTree = "<group>"; };
 		B7D438EF2982A08E00B4CD46 /* NavigationSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NavigationSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B7D438F22982A08E00B4CD46 /* NavigationSwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationSwiftUIApp.swift; sourceTree = "<group>"; };
 		B7D438F42982A08F00B4CD46 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				B7D438F22982A08E00B4CD46 /* NavigationSwiftUIApp.swift */,
 				B7D438F42982A08F00B4CD46 /* ContentView.swift */,
+				B7506AB4298D9D9600A61FE7 /* new.swift */,
 				B7D438F62982A09700B4CD46 /* Assets.xcassets */,
 				B7D438F82982A09700B4CD46 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B7506AB5298D9D9600A61FE7 /* new.swift in Sources */,
 				B7D438F52982A08F00B4CD46 /* ContentView.swift in Sources */,
 				B7D438F32982A08F00B4CD46 /* NavigationSwiftUIApp.swift in Sources */,
 			);
